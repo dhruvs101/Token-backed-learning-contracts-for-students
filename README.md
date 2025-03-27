@@ -13,5 +13,5 @@ Our vision is to create a decentralized education reward system that fosters stu
 - **Token Marketplace:** Create a marketplace where students can trade earned tokens for educational content, books, or mentorship programs.
 
 ## Contract Details
-**Contract Address:** `[ADD_YOUR_DEPLOYED_CONTRACT_ADDRESS_HERE]`
+**Contract Address:** 0xcbcea319313f7d58c09fc1093a956dd9c9478f82b1a26cfa313c4aefc05c0f57
 
