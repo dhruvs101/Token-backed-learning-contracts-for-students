@@ -1,0 +1,17 @@
+[package]
+name = "token-backed-learning-contracts-for-students"
+version = "1.0.0"
+authors = []
+
+[addresses]
+my_module = "0xe719663c46f088fddabf666f455dea8265dc280144f5072e5fd1deb41bbcf768"
+
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
